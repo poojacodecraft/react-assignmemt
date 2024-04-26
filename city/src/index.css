@@ -1,0 +1,26 @@
+.Place {
+    border:5px solid rgba(24, 24, 140, 0.082);
+    padding:20px;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 2px 2px rgb(58, 44, 44);
+    background-color: rgba(143, 124, 118, 0.992);
+    display: inline-block;
+}
+
+.Place p{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium';
+}
+
+.yes{
+  background-color: green;
+  border-radius: 2px;
+  padding:2px
+}
+
+.no{
+  background-color: red;
+  border-radius: 2px;
+  padding: 2px
+}
